@@ -1,0 +1,661 @@
+{
+   "checksum": "16a4de35401746bd8b6f98469b6ae73b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13305118499000000",
+            "date_last_used": "0",
+            "guid": "6ab8733d-2b86-4521-b105-2cbfba27713c",
+            "id": "36",
+            "name": "Slack",
+            "type": "url",
+            "url": "https://app.slack.com/client/T0195LMKD1R/C037JACHQG6"
+         }, {
+            "date_added": "13305380740000000",
+            "date_last_used": "0",
+            "guid": "68b9fe9c-5975-4a2f-99d2-58a89f0150b7",
+            "id": "37",
+            "name": "FutureMe: joebrian022@gmail.com",
+            "type": "url",
+            "url": "https://www.futureme.org/users/9917687"
+         }, {
+            "date_added": "13306961829000000",
+            "date_last_used": "0",
+            "guid": "39c598ea-995a-4d43-9982-80d8ddaa7f24",
+            "id": "38",
+            "name": "Types of business services",
+            "type": "url",
+            "url": "https://www.indeed.com/career-advice/career-development/business-services-types"
+         }, {
+            "date_added": "13309291199000000",
+            "date_last_used": "0",
+            "guid": "d1c9bdce-ca72-459b-a34a-34dd4f04733e",
+            "id": "39",
+            "name": "Appen Projects",
+            "type": "url",
+            "url": "https://connect.appen.com/qrp/core/vendors/projects"
+         }, {
+            "date_added": "13313107244000000",
+            "date_last_used": "0",
+            "guid": "7212b6fb-9c62-4d3d-8883-95f9d01f2250",
+            "id": "40",
+            "name": "Crowd Project List - Appen 9",
+            "type": "url",
+            "url": "https://ui.appen.com.cn/v3/worker-projects"
+         }, {
+            "date_added": "13309199161000000",
+            "date_last_used": "0",
+            "guid": "987addb6-df35-499b-aead-d3588b0e797f",
+            "id": "41",
+            "name": "(231) Roundcube Webmail :: Inbox",
+            "type": "url",
+            "url": "https://lwgtech.com:2096/cpsess5580409208/3rdparty/roundcube/?_task=mail&_mbox=INBOX"
+         }, {
+            "date_added": "13309201231000000",
+            "date_last_used": "0",
+            "guid": "1b77c072-7fa1-4fdb-8056-8a75c2db6947",
+            "id": "42",
+            "name": "Voice Recovery September",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSdDsgfQ-_k9HAATkVaYgLS3sSoq-7HvOF4UlQZDvoXx6jCQ9w/viewform"
+         }, {
+            "date_added": "13309344975000000",
+            "date_last_used": "0",
+            "guid": "b6ed8a69-fb72-4ed0-a9b4-9cce8ab9d366",
+            "id": "43",
+            "name": "Meeting Information - Zoom",
+            "type": "url",
+            "url": "https://www.zoom.us/meeting/87945123539"
+         }, {
+            "date_added": "13311969532000000",
+            "date_last_used": "0",
+            "guid": "2ca9498c-8490-4ed9-ab1c-aacf23c4e3a3",
+            "id": "44",
+            "name": "Perfect Binary Signal - Forex Strategies - Forex Resources - Forex Trading-free forex trading signals and FX Forecast",
+            "type": "url",
+            "url": "https://www.forexstrategiesresources.com/binary-options-strategies-ii/275-perfect-binary-signal/"
+         }, {
+            "date_added": "13312380589000000",
+            "date_last_used": "0",
+            "guid": "8f844c8c-da88-40ce-b9f2-8620ba429efe",
+            "id": "45",
+            "name": "Visa",
+            "type": "url",
+            "url": "https://dvprogram.state.gov/application.aspx"
+         }, {
+            "date_added": "13313878627000000",
+            "date_last_used": "0",
+            "guid": "0beeb9c4-cd37-4407-9098-75aade67561b",
+            "id": "46",
+            "name": "Paraphrasing Tool | QuillBot AI",
+            "type": "url",
+            "url": "https://quillbot.com/"
+         }, {
+            "date_added": "13314179100000000",
+            "date_last_used": "0",
+            "guid": "44259b9a-1104-46bd-a7c7-cb1fad3d46e9",
+            "id": "47",
+            "name": "Recruitment - Appen 9",
+            "type": "url",
+            "url": "https://ui.appen.com.cn/v3/worker-request-detail?requestId=b74ab338-611f-43ee-a4a8-f56bfd09c977"
+         }, {
+            "date_added": "13314308463000000",
+            "date_last_used": "0",
+            "guid": "263dfd17-24aa-42b3-9bac-035ad071fb63",
+            "id": "48",
+            "name": "sunroof company",
+            "type": "url",
+            "url": "https://www.instagram.com/p/Clg9CsyIgWa/?igshid=YmMyMTA2M2Y%3D"
+         }, {
+            "date_added": "13315514756000000",
+            "date_last_used": "0",
+            "guid": "b42b2c26-bc62-4144-96ad-b30df199becf",
+            "id": "49",
+            "name": " freelance payment verification",
+            "type": "url",
+            "url": "https://www.freelancer.com/new-freelancer/payment-verification"
+         }, {
+            "date_added": "13315843139000000",
+            "date_last_used": "0",
+            "guid": "1debb0c6-1847-49b1-8952-8fd4438ee7dd",
+            "id": "50",
+            "name": "VIP Box Sports - Sports On Demand Online For Free | VIP Sports - VIPRow",
+            "type": "url",
+            "url": "https://www.viprow.nu/"
+         }, {
+            "date_added": "13327218033000000",
+            "date_last_used": "0",
+            "guid": "3b1aed1c-d3dc-4307-8d27-00997765a73c",
+            "id": "51",
+            "name": "jobgether",
+            "type": "url",
+            "url": "https://jobgether.com/search/remote-job-africa?utm_source=google&utm_medium=cpc&utm_campaign={campaign_name}&utm_id=19628999928&utm_term=remote+job&utm_content=145906236179&gclid=Cj0KCQjw3a2iBhCFARIsAD4jQB0a0JMYp3N9WnuPJAVEdlLNNTHE2PJ99uFEtcKSSMqC8y001ZCNMcEaAj7IEALw_wcB"
+         }, {
+            "date_added": "13327225272000000",
+            "date_last_used": "0",
+            "guid": "9c3de4ae-12b1-48b2-91f8-ad10d4979081",
+            "id": "52",
+            "name": "Largest 1000 UK Companies in 2023",
+            "type": "url",
+            "url": "https://disfold.com/united-kingdom/companies/"
+         }, {
+            "date_added": "13327225301000000",
+            "date_last_used": "0",
+            "guid": "c64a4427-de07-4a6f-aa1a-1cbe06dc600c",
+            "id": "53",
+            "name": "Largest 21 UK Advertising Agencies Companies in 2023",
+            "type": "url",
+            "url": "https://disfold.com/united-kingdom/industry/advertising-agencies/companies/"
+         }, {
+            "date_added": "13329215360000000",
+            "date_last_used": "0",
+            "guid": "aec570b6-8ddd-4b5e-8b86-49240030724d",
+            "id": "54",
+            "name": "what does it take to start a business - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=what+does+it+take+to+start+a+business&rlz=1C1JJTC_enKE1034KE1034&oq=what+does+it+take+to+start&aqs=chrome.0.0i512j69i57j0i512l8.28972j0j7&sourceid=chrome&ie=UTF-8"
+         }, {
+            "date_added": "13329222182000000",
+            "date_last_used": "0",
+            "guid": "aa5f24aa-f8ee-456f-a3e3-050fab87d5ad",
+            "id": "55",
+            "name": "Athena Global Education",
+            "type": "url",
+            "url": "https://uniathena.com/lms/student-dashboard"
+         }, {
+            "date_added": "13329835923000000",
+            "date_last_used": "0",
+            "guid": "4bd693c0-f786-4aca-bce4-f8e310860c68",
+            "id": "56",
+            "name": "saka hapa - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=saka+hapa&rlz=1C1JJTC_enKE1034KE1034&oq=saka+ha&aqs=chrome.1.69i57j0i512j46i175i199i512j0i512l5j46i512j46i175i199i512.14084j0j7&sourceid=chrome&ie=UTF-8"
+         }, {
+            "date_added": "13332427413000000",
+            "date_last_used": "0",
+            "guid": "a195bb6c-4c22-40bb-954d-667d8243a8bb",
+            "id": "57",
+            "name": "26 Small Business Ideas To Start in 2023",
+            "type": "url",
+            "url": "https://www.shopify.com/blog/low-investment-business-ideas?term=&adid=648046478065&campaignid=19685648060&gclid=Cj0KCQjwtO-kBhDIARIsAL6LoreZZRtl03lWS3evkz1vtwk3AvHLypLh3awHquiBXGvfcmHuaSR8dqwaAu3dEALw_wcB&cmadid=516752332;cmadvertiserid=10730501;cmcampaignid=26990768;cmplacementid=324494362;cmcreativeid=163722649;cmsiteid=5500011#10"
+         }, {
+            "date_added": "13341936504000000",
+            "date_last_used": "0",
+            "guid": "14562dbc-ac17-4e1e-b6e2-9815d1ef738c",
+            "id": "58",
+            "name": "Upwork",
+            "type": "url",
+            "url": "https://www.upwork.com/nx/find-work/best-matches"
+         }, {
+            "date_added": "13341936512000000",
+            "date_last_used": "0",
+            "guid": "4a19e44e-3f6e-4185-a76a-2dac24a9d18e",
+            "id": "59",
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13342685501000000",
+                  "date_last_used": "0",
+                  "guid": "f7b45bc2-3c2b-4f10-a75d-1107ccc9c62c",
+                  "id": "62",
+                  "name": "TIFA Research Limited - CATI MANAGEMENT SYSTEM",
+                  "type": "url",
+                  "url": "http://192.168.5.64/survey/project-kepsa-ajira-2023-general-public"
+               }, {
+                  "date_added": "13342775836000000",
+                  "date_last_used": "0",
+                  "guid": "12fda1d2-4f1b-40bb-b1e9-2f1c78dbadaf",
+                  "id": "63",
+                  "name": "TIFA Research Limited - CATI MANAGEMENT SYSTEM",
+                  "type": "url",
+                  "url": "http://192.168.5.64/agent/project/survey"
+               }, {
+                  "date_added": "13348222018000000",
+                  "date_last_used": "0",
+                  "guid": "471ca18c-3ae0-4a40-a856-b755f54ff673",
+                  "id": "64",
+                  "name": "citizen tv live - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=citizen+tv+live&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQLhgnGOoCMgkIBxAjGCcY6gLSAQk0NjA1ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:c3fcdda4,vid:tTfXu8AybPE,st:0"
+               }, {
+                  "date_added": "13365086884000000",
+                  "date_last_used": "0",
+                  "guid": "e58d54c5-a663-46bb-a400-f0767c0729f6",
+                  "id": "65",
+                  "name": "Gemini",
+                  "type": "url",
+                  "url": "https://gemini.google.com/app"
+               }, {
+                  "date_added": "13365086893000000",
+                  "date_last_used": "0",
+                  "guid": "4342d039-7627-4ff8-b49b-92146d74819e",
+                  "id": "66",
+                  "name": "ChatGPT",
+                  "type": "url",
+                  "url": "https://chatgpt.com/c/f3faf0fd-6246-4d5e-a9a7-26a794c8d7da"
+               } ],
+               "date_added": "13369837522167686",
+               "date_last_used": "0",
+               "date_modified": "13369837522167686",
+               "guid": "0adf661a-d762-475a-98a0-ecaac83b6789",
+               "id": "61",
+               "name": "Other bookmarks",
+               "type": "folder"
+            } ],
+            "date_added": "13369837522167626",
+            "date_last_used": "0",
+            "date_modified": "13369837522167626",
+            "guid": "1a005389-2915-4e20-8fe7-a6d28fb45252",
+            "id": "60",
+            "name": "Imported from Google Chrome joe.",
+            "type": "folder"
+         } ],
+         "date_added": "13369990648172441",
+         "date_last_used": "0",
+         "date_modified": "13341936512000000",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13366299879162755",
+            "date_last_used": "13366844799995552",
+            "guid": "46d49cfd-cc98-46ae-99bc-682baa27e45b",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "QuillBot",
+            "type": "url",
+            "url": "https://quillbot.com/paraphrasing-tool"
+         }, {
+            "date_added": "13366302886490550",
+            "date_last_used": "13369824162145864",
+            "guid": "53a42073-0aab-4260-abe6-c03d361dea92",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Tango - generating cover letters/ cv's",
+            "type": "url",
+            "url": "https://app.tango.us/app/home"
+         }, {
+            "date_added": "13366307397077113",
+            "date_last_used": "13366818705842522",
+            "guid": "cbb2f276-54f8-49de-99c8-1d2511edcdc4",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Careerflow",
+            "type": "url",
+            "url": "https://app.careerflow.ai/dashboard"
+         }, {
+            "date_added": "13366327692332067",
+            "date_last_used": "13366848794741005",
+            "guid": "d24eb80c-d743-4b54-8453-dc599dff0439",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Kickresume",
+            "type": "url",
+            "url": "https://www.kickresume.com/dashboard/resumes/"
+         }, {
+            "date_added": "13366328796871331",
+            "date_last_used": "13369906771343485",
+            "guid": "ad4a118c-b5be-4120-9779-e9668979bdaf",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Notion",
+            "type": "url",
+            "url": "https://www.notion.so/Getting-Started-2303722a813245a183393c5fbfc42f6b"
+         }, {
+            "date_added": "13366361231898147",
+            "date_last_used": "13369907507026071",
+            "guid": "17af93a4-c800-4c1f-9c9f-2db0acc28540",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Canva",
+            "type": "url",
+            "url": "https://www.canva.com/"
+         }, {
+            "date_added": "13366365888304014",
+            "date_last_used": "13367160736251138",
+            "guid": "0c9bad53-e4d1-41f1-9f78-029cb80c7ee7",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Miro",
+            "type": "url",
+            "url": "https://miro.com/app/dashboard/"
+         }, {
+            "date_added": "13366447294304989",
+            "date_last_used": "0",
+            "guid": "a8332c68-91bd-43f8-9682-71b0242ae276",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "RANDOM.ORG",
+            "type": "url",
+            "url": "https://www.random.org/"
+         }, {
+            "date_added": "13366447808896387",
+            "date_last_used": "0",
+            "guid": "84fd3d4e-7ab2-468f-80f3-66aed97d9732",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "VenturusAI - analyzes a business ideas",
+            "type": "url",
+            "url": "https://venturusai.com/"
+         }, {
+            "date_added": "13366449329729653",
+            "date_last_used": "0",
+            "guid": "c2312ec9-d1b6-4521-8f09-03b4e589b5cf",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Adobe(AI photoshop)",
+            "type": "url",
+            "url": "https://www.adobe.com/home"
+         }, {
+            "date_added": "13366449841513518",
+            "date_last_used": "0",
+            "guid": "83469040-9f5f-4bd8-b585-ec60026c9563",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Leonardo.Ai(Image generator)",
+            "type": "url",
+            "url": "https://app.leonardo.ai/"
+         }, {
+            "date_added": "13366453374227917",
+            "date_last_used": "13370179559144728",
+            "guid": "1773cec1-1ba7-4e3d-afd4-ca30be4cb32d",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "My Grammarly",
+            "type": "url",
+            "url": "https://app.grammarly.com/?payment=free&planName=none&funneltype=free&from=service/installed&install=false"
+         }, {
+            "date_added": "13366637728459887",
+            "date_last_used": "0",
+            "guid": "5fcef01f-4064-4277-8e90-e83b8f8d723b",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Clickup(PARA)",
+            "type": "url",
+            "url": "https://app.clickup.com/9012148550/v/l/8cjmya6-32"
+         }, {
+            "date_added": "13366640549707766",
+            "date_last_used": "13366641417611253",
+            "guid": "db52e094-39e5-417c-8af2-2e03de3403a5",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Fireflies.ai(transcribing, summarizing, and analyzing meetings)",
+            "type": "url",
+            "url": "https://app.fireflies.ai/"
+         }, {
+            "date_added": "13366640880411349",
+            "date_last_used": "0",
+            "guid": "0a4f0750-6d45-4430-b8a6-41cc8d5522b0",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Otter.ai(transcribing, summarizing, and analyzing meetings)",
+            "type": "url",
+            "url": "https://otter.ai/home"
+         }, {
+            "date_added": "13366752260374011",
+            "date_last_used": "0",
+            "guid": "18b5c693-3584-4222-9e21-f17ab5c8b7b7",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "prometai.app(business plan)",
+            "type": "url",
+            "url": "https://prometai.app/profile"
+         }, {
+            "date_added": "13366752924005057",
+            "date_last_used": "0",
+            "guid": "dad43625-8369-4ec3-a5c0-8b437e5a76c1",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT Prompts for Business (work on it later)",
+            "type": "url",
+            "url": "https://promptadvance.club/chatgpt-prompts/business"
+         }, {
+            "date_added": "13366884118586102",
+            "date_last_used": "0",
+            "guid": "7e699e0b-fbc0-4693-8599-77a6c4e5c4b3",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Kickresume",
+            "type": "url",
+            "url": "https://www.kickresume.com/edit/11572452/fill-in/"
+         }, {
+            "date_added": "13368126489230861",
+            "date_last_used": "13369908860856814",
+            "guid": "b2ad8aff-105c-455e-baa8-5ff2ffc26b08",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Upwork",
+            "type": "url",
+            "url": "https://www.upwork.com/nx/find-work/"
+         }, {
+            "date_added": "13368444006464219",
+            "date_last_used": "0",
+            "guid": "67149915-4965-4a92-afac-3c5d041125c9",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Odoo",
+            "type": "url",
+            "url": "https://www.odoo.com/app/website?utm_source=db&utm_medium=website"
+         }, {
+            "date_added": "13368529508086259",
+            "date_last_used": "0",
+            "guid": "98177b95-21d7-4f4f-a443-b03ec7d848ab",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Loom(record)",
+            "type": "url",
+            "url": "https://www.loom.com/looms/videos"
+         }, {
+            "date_added": "13368542467030293",
+            "date_last_used": "0",
+            "guid": "aefb8dde-080f-46b6-b283-0952191ecd71",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Slack",
+            "type": "url",
+            "url": "https://app.slack.com/client/T07HGR29HEW/C07HGRKMH0A"
+         }, {
+            "date_added": "13369223099240196",
+            "date_last_used": "0",
+            "guid": "7b49b143-1a0a-49b4-b41d-68211cb6220f",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "BypassGPT: AI Detector, AI Humanizer & Bypass AI Detection",
+            "type": "url",
+            "url": "https://bypassgpt.ai/"
+         }, {
+            "date_added": "13369588604611692",
+            "date_last_used": "13370128540656360",
+            "guid": "5753f5c2-a381-46d9-a622-55e3189e736b",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Moringa portal",
+            "type": "url",
+            "url": "https://moringa.instructure.com/profile/communication"
+         }, {
+            "date_added": "13369588847442545",
+            "date_last_used": "13370128538519883",
+            "guid": "b69ca302-059d-4cd2-9ac7-a94ea3eacd36",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "mattermost channel",
+            "type": "url",
+            "url": "https://baraza.moringaschool.com/morgina-classroom/channels/town-square"
+         }, {
+            "date_added": "13369589743587869",
+            "date_last_used": "13369828062925432",
+            "guid": "7a778391-7672-46ed-8874-016a00328d43",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "LinkedIn",
+            "type": "url",
+            "url": "https://www.linkedin.com/feed/"
+         }, {
+            "date_added": "13369590075260546",
+            "date_last_used": "0",
+            "guid": "be36a029-c2da-4925-846f-cb3484081892",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Perplexity",
+            "type": "url",
+            "url": "https://www.perplexity.ai/search/are-air-fryers-worth-it-39Ueu4CXQg.inMzolHBOIg"
+         }, {
+            "date_added": "13369590783839220",
+            "date_last_used": "0",
+            "guid": "69a2e386-767c-4a4e-a1d7-b9fff47f42b3",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Jaybe Tech website",
+            "type": "url",
+            "url": "https://joebrian998.wixsite.com/jaybe-tech"
+         }, {
+            "date_added": "13369590990342730",
+            "date_last_used": "0",
+            "guid": "3454ae3a-8acc-4473-8995-5ea07fa9346c",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "wix(setupwebsite)",
+            "type": "url",
+            "url": "https://manage.wix.com/dashboard/628960b7-21d9-490b-8d71-82f5b4e523a5/setup?referralInfo=sidebar"
+         }, {
+            "date_added": "13369591560581561",
+            "date_last_used": "0",
+            "guid": "98597119-2346-408a-8236-86d586cbc5a0",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Joe Brian's Workspace(NOTION)",
+            "type": "url",
+            "url": "https://app.clickup.com/9012148550/home"
+         }, {
+            "date_added": "13369837872539054",
+            "date_last_used": "13370334556208091",
+            "guid": "965497db-6ed6-43cf-88ae-369b561d1f32",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Intranet(ALX)",
+            "type": "url",
+            "url": "https://intranet.alxswe.com/"
+         }, {
+            "date_added": "13370129819290836",
+            "date_last_used": "0",
+            "guid": "34ee5a48-0362-47a7-9543-d8eccfae75c6",
+            "id": "68",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SDF-FT 11 A(classroom)",
+            "type": "url",
+            "url": "https://classroom.google.com/u/1/c/NzExMjE3MjMwNzg5"
+         }, {
+            "date_added": "13370192080720834",
+            "date_last_used": "0",
+            "guid": "abe7bd07-9829-4f66-ab8e-4026668bc86f",
+            "id": "70",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Netflix",
+            "type": "url",
+            "url": "https://www.netflix.com/browse"
+         }, {
+            "date_added": "13370343348868194",
+            "date_last_used": "0",
+            "guid": "54cd0b8e-7009-4b8c-9918-dd2ab6d72ad6",
+            "id": "72",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         } ],
+         "date_added": "13369990648172444",
+         "date_last_used": "0",
+         "date_modified": "13370343348868194",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13369990648172447",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgrOwM/tumQAAAAAEgAaWGFoY3BOUHRORVhCRjdET0oxdGxibmpLRG5uZHJmZWRjb0ZvdGRvcXhpSkNobDhERnE4NzdKQmd5eWROdnhKWlNjcCt5ZjgyaEcvVjB5U2dYZTRlYW9BPT0qGEZCN1gwUGRCNGljd25YdlRQZjBnUHc9PUgDEqkBCBISpAEKHEszSzFKc3BiUnYvNURwb05vd05LaVNOcEQ1TT0SJDhhZjU3Mzk0LTUxZWItNGQzYy1iNjNmLWM5NzY3NzI0MzdiMhgAIAAoADCirqWKnDI4x4KlipwyQMeCpYqcMkocbWxQVnQrZnMwMzhsc3pNRjhpR253T0tmOW5NPVogIh7/3VB4S0d2d3YvTEdUUWNKYnlGaTgwaVpTQUFLRT1l9K6VKBKqAQgbEqUBChxIbHRJcU5sVE44VkpiR3ZnaCtwYjU4QWdlWG89EiRkMmUwMGMwZi00NmEyLTQ2OWMtOTNlZS1lMTNhMzIyY2QzZDgYACAAKAAwjrKlipwyOMeCpYqcMkDHgqWKnDJKHGNPRDdPRWgyV3lKZURwOUFIWkNxMjlFbkJrTT1aISIf//+8T0lzNnpYcXVXTVZsTWxhUWlvTHR3K0tYUnEwPWWcXvg2EqsBCEQSpgEKHFd6aWEvMFhnSnRFOVl6RWxZRHhiT0t1S3Fyaz0SJDc0NzM5ZGFjLTBlMmMtNGZkMi1iNDBlLWJiYzc4NzkwYzA5NhgAIAAoADDDjIPJnDI4m/2AyZwyQJv9gMmcMkocanV1d3RMRVhXZ2pGd1Q0Nm4zaGwxRW9rNjhRPVoiIiD////bZzh0ZTNBNkVQYnN5eEh2VWRadkdleGFLaHJJPWUER1j5EqcBCAcSogEKHGlUM2Vta2R2alBBOTEyTXlyRldSUVFadUw1ND0SJGM5NDg4MWU2LWU5YTUtNDdiNC05ZjcyLWRhOTExZGRjZWFkYxgAIAAoADCPuqWKnDI4x4KlipwyQMeCpYqcMkocVU43bmNYMUpHZTZIMFZPSFVqdk5PbDNkbnpFPVoeIhxsNFg5enhzV3ZkY0ptRi9SNk9vQXJ3NmV2Rnc9ZafSctcSqAEIChKjAQocUTVIZHJqelNuSGtGa3hyT0U5QUsyYllQcWlRPRIkNWRmZjVkNWMtYmE2Ny00ZTQ5LWI2NmItZTY4NmJkNzE4ZjhiGAAgACgAMKSypYqcMjjHgqWKnDJAx4KlipwyShxWa0l1K1lRN010VWt4L2RHRi9HT0pEUkpUR1U9Wh8iHdxGK3pQRUVNenRrNEhYTnR3U0wyK0hCOGJacms9Zc7lSloSqgEIHhKlAQocUXlwM2dySXhLZnNsZ1BHakxxY1RIZHBlcGFZPRIkOWVlZDQ5YmItMjA3MC00ODExLWE5NWQtZDNlMzZkYjRhYWNjGAAgACgAMIq7pYqcMjjHgqWKnDJAx4KlipwyShxuRkdOUStYNmpYdUc1RmN4R1FDZW9ZWjdhTWs9WiEiH///92l4bVB2dEtvSjArb1c1NXExN1FEVklWN1RJND1lRU1K0RKpAQgUEqQBChxrclhTdHhhNnByK2p3ei9POE00QUd4OUR1MGM9EiRiNDc0NTQzYS0xYWE1LTQyMzYtOTIxNi0xNjU0NmI5MWUzOWEYACAAKAAwr7elipwyOMeCpYqcMkDHgqWKnDJKHHB5c2doMVZzUGdTTUJ0ejVFd2JzeUhzVGNCYz1aICIe//dEdldob0tzSThabmVFeHJrYmhGS1FuMzZyQzQ9ZVKK3rMSgwEIAxJ/ChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ5YWU5ZmE0My0yYjE4LTQ3NjMtYWRjMC03ZGI0ODBkOGE1ZGUYACAAKAAwATjb8qSKnDJA2/KkipwyShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKoAQgMEqMBChxGSS9weUNFbllUcmxIdXVKeTBrUjgrK3pkMFk9EiRhOWE2YjBkZC1mY2Q0LTQzMTUtYWQ4My1mNWQwNmIxMGNlMDgYACAAKAAw+bilipwyOMeCpYqcMkDHgqWKnDJKHEN5d2RJNkdnQmVGeEkzSFJDYkttTlkyTEZiaz1aHyId9zZ5M0NldzdZVFYvRmIvRmJVbFBNZDNObXgxOD1ldKN87xKpAQg1EqQBChwyak91b21BMTZpZER1d1pmSVFuN1JCQ0R0QWs9EiQ5NGU3ODc2NC1jZWI4LTQ3MmMtYWRjYS0xNTgwYzllY2M5YTQYACAAKAAwoLulipwyOMaCpYqcMkDGgqWKnDJKHFE0UG9qR0xlang0RW9nZHQvT0d5K0NlUHdwRT1aICIe//0rVUdYSy9YTWhPaG95MHNnMHVvZjZ1MXh4dTA9Zf8V61ESqgEIIhKlAQocSlFoVVNRYUIwdmc4ZEtwZlZpNVhZTHJDUTRJPRIkN2VlMjA2NzYtMGRkNC00YzI2LWFmYjAtMTU4ZjU1ODk5MzAyGAAgACgAMJe0pYqcMjjIgqWKnDJAyIKlipwyShwxbG4yNy9nMlZIS05DY2I0TXpBaFMwTUtzZFk9WiEiH////2xpak9hNGJ6STlCQmZwTHZWU21zRVFXNHRITT1lMKLDahKoAQhCEqMBChxPbG8zOFV5R0QrSWZ6UGQzaEZCVHlla1dqMFU9EiRkZjhlOTc2YS0yMzVlLTQ4ZjYtOTBhYS0yMjZhNjQ5NjI1MWQYACAAKAAwq8uhyZwyOMeCpYqcMkDHgqWKnDJKHGhYOFpIWmhWSGlwZGlrNVBBYi90emhNclRvUT1aHyId9nhMalhWd1liZUZlVDRNais1UDZBbmlMcE0vZz1l38/OIhKnAQgGEqIBChx4dzlaL1JXb092ekJkdnVlejRRUU8ySk1nVDg9EiRhZDRkYTA5OC1lNWVjLTQ5YmUtYmM3NC1mNjFjODc3MDhhYzQYACAAKAAwj6+lipwyOMeCpYqcMkDHgqWKnDJKHE5ESjlZTThMOG5tM2liV1FHRHVEbTc1bnpxND1aHiIcM3JDcHRDY3R5QloySnZxMy9xcWRoYW1iblRVPWVkZ/8nEqgBCCkSowEKHG1YVnAzbFl3WTNyWm11MVRoakRpT1ZydHl2cz0SJDBhMTIwZjQ0LTA1MTQtNDhlOS1iNjdlLTlhMTc3ZGJhMjVjNhgAIAAoADCAr6WKnDI4xYKlipwyQMWCpYqcMkocbGhPWlBNcks5eVFEU2I5QTYwaUFlSkR5VHk4PVofIh3bN3k1SWwvam81b1BCQU1aeTdBM0RzK0J5TjJrPWUEzST4EqgBCCwSowEKHFpJY1hldzlJTnJEbDdXRkJjZm00RysvcDhJdz0SJGU3MjhiODk1LTNhOGEtNGMyNC05OTY1LWY5YjIzMzgyNDVkNRgAIAAoADDzsqWKnDI4xoKlipwyQMaCpYqcMkocaVdPOVl1aDVaYTE0RHdYdUw5S3FvY2ROWWNvPVofIh37Qk4xbndhVHB0T0ZIVGJMQkFWUjlaS2hwKzAwPWURAMJEEqgBCAsSowEKHDZmSFhMbWRRMXZGRGVUUEpQSlpnN1JldjUzbz0SJGJjOThiNDQ1LWJkODktNGUzYi1iOWJiLTAwYTI4MGJiMTg0MBgAIAAoADCFs6WKnDI4x4KlipwyQMeCpYqcMkocZlhyc1I4YkNvYTJvNzFtR2hWaStibERiOVdNPVofIh3ucGpMb1dzaDlGQk5lakgvVzhjSmwyT0JJSm5VPWWxAoKiEqgBCAkSowEKHHI2SktCVk5tckpSdnlrSmVIZ1BMajVHMkIrQT0SJDdlMzU2Yzg4LTU4NmMtNGE0NC1hZjI1LWZhZDU0NDZlODIzMhgAIAAoADCCjIKNnDI4x4KlipwyQMeCpYqcMkocK2ZwaUJNWVdvdWE5NjRZZCtTdld5b1UvdEdNPVofIh25cmRUWFUyc1ZWa1Y2c2dhQ3J0YWhPc25QdnI0PWXM8kkeEqkBCBoSpAEKHHBTSXBkWFlXWmxmVHg2U0ViMmJCTDloSHBrUT0SJDAxOTQ3MDk0LTNiMGQtNDg3MC04NDA5LTA1ZmEyOGZhMzEwYRgAIAAoADCVsKWKnDI4x4KlipwyQMeCpYqcMkocTm1HaktoVDZEN1pSejNUaTlIUUVWdWFSV1I0PVogIh7//3lZTVFONkFxa1RqSjZvTjBWZ1BvaXZTWEI4WT1lAAAAABKoAQgOEqMBChxSaTZhV05qS2RWV29uZng2WThlbXViOTZwa2M9EiQwODQxYmJiYi1kNmFmLTRjMGYtOTNiMi1kNTM3YTU1ZGE4MzgYACAAKAAwrbilipwyOMeCpYqcMkDHgqWKnDJKHHV1NS9ieFoybjlnTFpKMUxOL0ltaERxUC9wdz1aHyId/TFQQU0rUE1oLzVRTzJyZ1ZST1hHM0R3L1oxST1lPFOuAhKnAQgIEqIBChxxbStodlNndk5ldzlTVnJIY1NNN1NJMXcvYk09EiRiNDEyMmVkNi0yYjhhLTQ3NzEtODRjZi0yMzY4YTk5OGU1NDQYACAAKAAwpbOlipwyOMeCpYqcMkDHgqWKnDJKHGxrTm8rZVIvZjdZMDhwQVBLS0t6aXNlRFkwST1aHiIcc2wxdzMvUk5tbFV2SFZnbjZ3QVZMTVVNNDVVPWVMXP7bEqgBCA8SowEKHGFlVWh6OFRYMUNXbFh2N1o5bE93eE84RVFmRT0SJDdmNmJjZWEzLTI0MWMtNGMzMy1iODQ0LTFmZGYxOTk1ZDIwNRgAIAAoADCUuKWKnDI4x4KlipwyQMeCpYqcMkocRVY0eHpwK1JKK2pYWEFFSWIvOG1MY3dYMGJvPVofIh3+NFArY2QrTFlmRVZXVGc1OWpiaWZYejMzdkRNPWVD9dtzEqcBCD4SogEKHGw0UmN1L0pady9ha3BSMWFzTUJYTThsa0xYbz0SJDM5YmNlOTNhLTExZWItNGZhMC04MjMyLTA2NWI2ZTJhOGRjNhgAIAAoADDCsKWKnDI4x4KlipwyQMeCpYqcMkocNFQ1dUZhdXE3bitUQkxUMEdyQVAzQ1VIV200PVoeIhxvZEE5UHlKei9YYlJVQnNOWFZ5WXM1SDZtdlk9ZbK6MW4SgwEIAhJ/ChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ5ZjczYmRhOC0xMmZhLTQ2OTEtOTgxMi03OWZkZGZhZmM3ZmUYACAAKAAwATjb8qSKnDJA2/KkipwyShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKnAQgFEqIBChx2dG9jK1RUYVBnNmF2YlNZZ05kaEJxTXBjZzg9EiRkYzY2YzRhYy1kNzhmLTQxZDktYmE4ZS1hNmM1MTAyZGE0YjIYACAAKAAwxbmlipwyOMeCpYqcMkDHgqWKnDJKHGZWQ0w3aStuR3ljT2FPMXVuOHpsVlVJRWlIbz1aHiIcL0RsNWkxOCtCNmplTnNSZ2pHUDRKaUdwOWdRPWUtE5ExEqkBCBYSpAEKHDRKTkxjWG1CcGdjWkFqQ0R1cnYrU2Z4eVFQbz0SJDI5OTYyZmVmLWE0MDItNDJlMS1iOWY5LWI0MDkxNDU3MmNkMhgAIAAoADDauaWKnDI4x4KlipwyQMeCpYqcMkocQzhVczhoMC9GMEFDbUpIZzV3QWFORG5FYUFRPVogIh7//TA2SFVUWitwblNEQW1mMGJlcHAyR1BnY3ZNND1lTFz+2xKpAQgXEqQBChwzeXRtNTk1MVdacHNTSUV1M1AvSlFOR1IzNms9EiQ4NTkwN2NiNi00MTA2LTQ0NDYtOTVhYy0xZGIyODdhNzk2NzEYACAAKAAw7LmlipwyOMeCpYqcMkDHgqWKnDJKHHZ5SCtMT3VEM21UK1RwbStGbDdOZ2pIcGY4RT1aICIe//56dVc1aVNBa1Q0TU5uLzg1QWZQeVh1UGdpVjQ9Ze8iftYSqAEIQRKjAQocbWV1ZW1Wd0Q1RnZmczhFS1QzUENTcTZwc0ZVPRIkOTA1YjJlODMtZjlmMS00ZWYyLWJmYTItMDMzYjA3ZGI3M2IxGAAgACgAMJCxpYqcMjjHgqWKnDJAx4KlipwyShxkUFZpMW54SnNKNkoyV0M5Y05ERnk0K0J1NWs9Wh8iHe1mVEtMMDVBWlRYOHprYy90Wm1QbDNoUE4zV1E9ZT8D8xYSqQEIGBKkAQocZlpzWmtMbjhZWDBwZFNnUGh6dnFSZkhMbTg0PRIkZmZmMGFhMDItY2YzNi00ZGQyLThiZTItNGY4NWE0NTRlZmY0GAAgACgAMIm5pYqcMjjHgqWKnDJAx4KlipwyShxSWGgySDFMeVZFeHBYWExxVU82OWlWV0t1NFk9WiAiHv//NHhxMExvVk81dUI3YUFjZ2I2KzJVT202NnhnPWX2nxHaEqcBCCYSogEKHCt3MlkvOXpjRzdwZEtlVGJYdGlibUtlOTNOcz0SJDJiOThkYTYwLTdiYzMtNDllNi05ZGM5LTZhNmIyNTY1YWVjMxgAIAAoADC7tqWKnDI4xIKlipwyQMSCpYqcMkocWkszd2o0RHE1ZjhKanNQMzBJNmMybHVtYitzPVoeIhxhK284TWp4OWQrc3ZmRXVVMm8wYXg5NzVuWkU9ZXruwgESqQEIMRKkAQocbm5GaW1uT2hsbUVIWDR1cnl4VnZla2RHN0lZPRIkMzM4ODVhYzAtYjlhNS00ODJlLWE3ODYtMDYxYjVkMDcyMWE4GAAgACgAMK+xpYqcMjjGgqWKnDJAxoKlipwyShw1ZG5ETGRhbC9xMWlvdnVNOGJ3em9vUE56QXc9WiAiHv/dZ1RycTRmZG1VUWgzb1VLNFNTM3pBQ3lpSnFNPWVfUzyvEqkBCBMSpAEKHEw3ajNJS1JrMjUvQ0tPMzFCZTB5b0JkSGdXaz0SJDQyY2ZiMTNjLTgxNGQtNGQwZC04ZTk0LWEyNDFiYjRjMzc4NxgAIAAoADDataWKnDI4x4KlipwyQMeCpYqcMkocekowYmZBTFVZR0Z6MDRYcGx3YTFsWDJid2VnPVogIh7/7m5OaHM1ZlJsNzIzZzdhclNVaGUyeHBRSmJYdz1lDQyIIhKnAQgkEqIBChxqSlRxbHBydW13RkNFbUxhWjg2eEc5THNuNVE9EiQwYTY5ZjhlMC1hZDg3LTQ3N2MtYWVhZi0yMTk0OWNmMDJmNjAYACAAKAAww7GlipwyOMGCpYqcMkDBgqWKnDJKHEdwYlR6OHQ0c1hvNi9GbHYrSXlwaWZRaGJVTT1aHiIcM2wvWlpNTERCRm1JeU9ldXdnd3RRZUVscmVNPWXuurk3EqkBCBESpAEKHE5NUHhSQWo4Mm0xazZ5RyttMzdXeXlaR2VKbz0SJGJlYTNkYTgxLTc0MzUtNDRhZi04YmI1LTllMjBlYzQ3NDU5ZRgAIAAoADDtrqWKnDI4x4KlipwyQMeCpYqcMkocYlJQMWY3bk5OcEJVanVPV25lM1JuTEp0bmxZPVogIh7/unJGdFZURDhOUXJuWnBNNWtLTkQyd2toSU9CST1lMKLDahKqAQgfEqUBChw1SERnR3VOK2hVUEhPd1JjRE9nNXlmbFUxVzA9EiRkMzBjYWZkMi01ZTk3LTQwYmMtOTEwNS01MmQxMzBhNmM5YmMYACAAKAAwzrqlipwyOMiCpYqcMkDIgqWKnDJKHFd2WGFoSEY4ZzNLVVIwMU8rYngwVUJtSUlCST1aISIf///7UUlXdTRGaTh6Vy9HTmZzTjJCTDZzYjVveHhZPWVVYOgDEqoBCBwSpQEKHC9IemdQVXJSVUFlM2d3TC9lWHUybUh0V2RRUT0SJGI0MDZmOWE3LWFkYzktNDg0YS05NTg3LTAwYTQ5Y2U1NjdkNRgAIAAoADCmuqWKnDI4x4KlipwyQMeCpYqcMkocekI0dDgvOHhBbXlxcnhTL2pCdlhOcmNYeS9VPVohIh///943NG8yWHcyWHhlb212RTJpVVlyQUtkZmtsYlU9ZSVtin4SqAEIEBKjAQocZ1RXSzJ2dHlRL1VXekQ1OUtnSk9mSk9TNTdZPRIkMDcyZjMwMmItNjE5Mi00OGE3LThjODctYjRlYTdlYjI4ZjEzGAAgACgAMNCypYqcMjjHgqWKnDJAx4KlipwyShwrT0tKWTZwZWdqeHhrMThuUy9NMmZzK2Q3Wjg9Wh8iHf91VTBaL3FiYjhXZkRHRUtjbHJuK1d0Tzk3NUk9ZZ/iaYYSqgEIHRKlAQocM01uQjhVL1ZralB5UkgwZzBtbnVzRGVSSUJ3PRIkZjZhODU5MzQtZWM5OS00NzMyLWI1YmMtNTI5MTAzY2RiNzBlGAAgAygDMKfg57adMjjHgqWKnDJA1dTntp0yShx0NUwvY0xzUTdtdFRWem9DckVxNEV6TVBzQ3M9WiEiH///7zk2MjdDMkxnTTd4cXd0QlVUNS9tWDlsYTBhOD1lKLI70xKpAQg0EqQBChxoUlNsWkNHWDlTNGRCVjRXSTJOQjFSM2k2N3c9EiRlYjU5MWRhMi0zMWRiLTQyNTAtYjk2Mi1lYTgyNjk4NjRiNzYYACAAKAAwxa+lipwyOMaCpYqcMkDGgqWKnDJKHEswM1pHWk16c1c3OFo0R0MveFp2eFVQSkdQTT1aICIe//tjZDBHbFhtM0doOHJZRXd4biswTHVHYnFmOEU9Zf8V61ESqgEIIBKlAQoccUZ5VFpDOGRIRjA0RUI4NXhxNXdkUWdaWEJFPRIkOTZhYzE4YmMtOGFlNC00OGEyLThmYmQtZTE5YTEzMmNkMWYyGAAgACgAMLWupYqcMjjIgqWKnDJAyIKlipwyShxtSFZ2K1FDdVhwenM3ckhxUmFmeTFBM0hXcGs9WiEiH////TJxRW1HamtvamRCUjVCYmNoeCtPUCtqbFRlOD1l6CBbJBKrAQhGEqYBChxONW9CNHFoQ0VVWjZqTjdwaVVKbDg1UWNEUEk9EiRlZmY4MjE3Ny0wZmVmLTQxNDgtOWJkMC0yZDA2NGFjY2M0NTMYACAAKAAw9dat55wyONGO2eacMkDRjtnmnDJKHFlIQ2duK2JqRFBGTnYxVzlLZXhhWFJSNVdhVT1aIiIg////7URCdzczTmFTUExoU2Q4a3ZHZWJ6M2tVL0YyND1lQmPjwxKoAQgtEqMBChx0U1JmRHp0YUNmb2RTOUdETVhMWjBqcG5OZW89EiRmMTMwODU4MC1lODA5LTRlOTUtYTM5Yy02ZjEyMDU5M2E0ZTUYACAAKAAw1q+lipwyOMaCpYqcMkDGgqWKnDJKHFdYclJVMGpyNFJNWVJjNXdJa3RrR0lQdGM4UT1aHyId/WhFaU1JSWNrTEZadzkyeDRRLzlxZFVheWVoMD1lb7BOixKrAQgjEqYBChxkRjEwTUpXSGhrNkpEaWpiaDJyWmFZeEVLTDQ9EiRkODcwZjRmYi0wNTQ1LTQ5ZjUtYTA1ZC0xZDFlNjkwYzExMWMYACAAKAAwr7ulipwyOMiCpYqcMkDIgqWKnDJKHHNmeFpWdFlYMjJnRE5ZMjhIMVEwS1p2MmhhND1aIiIg////tmkxUURJR2N1aVFpNS9IV0lTMXlGdXF4aUI2dz1lymEZNxKpAQgyEqQBChx0dkcySmJaalJ4WjM0OS8ydXZLQjNoWVJvOXc9EiQzOWQ4NWNkMy0zM2FkLTQ1MDItOTdlZC1jOGI1OTEzNzU2YWQYACAAKAAwwbKlipwyOMaCpYqcMkDGgqWKnDJKHGpIaE45OWR6WXFzVmN0NjZ4Q2w5TWdTcHllWT1aICIe/+5lNEtYcStBZVh1NVprSmZxcStBY3JWVHA3Vkk9ZWQXK/0SqwEISBKmAQocUDRPV0RCUlAyTG9mWXRLMW16MjQvczErNDZnPRIkNzNjNzFkMmMtNjViZC00Zjk4LWJkNDUtMzZmNGMzOTk3NzFjGAAgACgAMPj56a6dMjiE5emunTJAhOXprp0yShxndUxDQzkwczhtTnJQNXBCOHhVSkhYbzk3MzA9WiIiIP////ZzODFVSHRuM1Ywbzg2K1FzMzl1WDhJTThGcTQ9ZcjzP7sSqAEIKBKjAQocOXB0bHJiTlJBdisra3lxcUcrWXRXSTFKYzBJPRIkNTlmODI2YzYtYWVlMS00NjRhLTk4NTYtNTY5ZDQ2MWNiN2QzGAAgACgAMJ2vpYqcMjjFgqWKnDJAxYKlipwyShxnTUNHbDNOV2J2VDFBeHVJRGh0bFFFU1YwZ1E9Wh8iHbdML0pXQ3pGUTZLMFdHL3NZaXBHdEt2U3FyaFU9Ze7UshUSqAEIKhKjAQocOWhndC96ejVUd0EydWtGYkhneFpjMm5EMHhzPRIkZjYxM2U0MzUtMmQxYy00NTU0LTlkNTAtOWUzNzcxZTJhOGM0GAAgACgAMP65pYqcMjjGgqWKnDJAxoKlipwyShxvTWUxSkt2ZEM0TXBOVEIzZWdjYTQ4N2VyU289Wh8iHe1KYnJRcGZZWVlWOU1ST2M2QlEwYi9BNTRjYkE9ZXPSCO0SpwEIJRKiAQocSHVEc3pKSlpITjYwcG9RTnlwcllweUtiaEdJPRIkNWMyNjNkZGQtOTk0MS00OWRhLWI3NmQtMTJiYzFiMWI5ZDM2GAAgACgAMN2upYqcMjjDgqWKnDJAw4KlipwyShxvaEFMKzBmdVhCSVNDTVpDTGVjV3p2cjA4QWs9Wh4iHFJjNTBmWXg0bnRQK0Vwb2lQZWNYc1VaSUZMWT1lBYxfbhKoAQgvEqMBChxwWDdMbUs1ejVaWi93OUlybWsxZ0dNdTJKTDQ9EiQ1MTIzMzk4Ni03YTk0LTRmMzktYWQ2NC04MTk3OTdlM2RhYjUYACAAKAAwmrmlipwyOMaCpYqcMkDGgqWKnDJKHDZWbnYwWHExODdhbS9ERmJCR1JSTG55eStMTT1aHyId/3dyOTZtV05rVU1QaVF2aFBXVjI1Z2tlc3ZEcz1l7tSyFRKpAQgwEqQBChxEdEdkWTZ6cUt4djA2aFBlQkJaYkNJWldib1k9EiRjYjYxMzFlNS1hMGMzLTQ5OWYtYWE0MC0zNWM0OGM4ZWJjMmQYACAAKAAw4LqlipwyOMaCpYqcMkDGgqWKnDJKHFdJeHRNZ2kvTXlIeHlrVDNCNDRxTXQ1c3VTbz1aICIe/7tTcytYcTVhc2RudFJpZE1xUm9IZUFVMXFXZ2s9ZYzsGP4SgwEIARJ/Chx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRmYmYzZDVkZi0yNDcxLTRlZTQtODIyZi05MmRkZThlZTYwNmIYACAAKAAwATjb8qSKnDJA2/KkipwyShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKqAQg4EqUBChxiamxDbWVqdDdOOEE1VWFXNm5BaEN2aTIxUXM9EiQ0OTVmZmEyNC04YWI0LTRlYTAtODk1My0xM2U2NjQyZjNmYWQYACAAKAAw9q+lipwyOMeCpYqcMkDHgqWKnDJKHGk2V1o4bTI1N1hQLytacDI3M2JZcGVzRmVFbz1aISIf//+1S2RoQkRUZkc2K1NhVC83MlBTdDBRbVJHaG9NPWUQMP/kEqgBCD8SowEKHHZJcGdhSko2TFF2OFkydzd3ZWdmeklEdmQyaz0SJDhkMTEyY2RhLWM0ZWItNDBjOS1hZjMxLWQ5ZWRlZGIyMjdlZhgAIAAoADDTsKWKnDI4x4KlipwyQMeCpYqcMkocNmM0SktwSWhGcGtLUWh4MlBVT3c5RFVuS0wwPVofIh23ZGZVSEpFWG9nb0FGSVRxZEtFQ1RQZ3NVN2trPWWyujFuEqkBCDMSpAEKHEg0ajBVZ1AvNzhGTFpYR1lLWnNvR2NpYzRQRT0SJDlhMjUwMjI1LTJjYzctNDM3OC1iMDQyLTcxNDNhZTcxMzA1MxgAIAAoADDfsqWKnDI4xoKlipwyQMaCpYqcMkocVG02Ky9EZ0JQUkVKaVAvZXIwZlFOMzVHaGhZPVogIh7/9ytwZDdEMnZSNVB2NzVFYW15c25rdlE0dlRHWT1l+0Ri3hKqAQg7EqUBChxiZDE5UTRrRGp0NGdYei9wUFgvWUMvRWVIZlU9EiQ3MWRmMmE3MS1mNGUwLTQ1ZGUtOTNjMC02ODYyZTU0MTJhNDYYACAAKAAw56+lipwyOMeCpYqcMkDHgqWKnDJKHGVBOXZSZUt3OE82VWlHamN3WVlwZ1hNWU03Yz1aISIf///2RTNVQkI1L3p1WlBKc0hqVkNSNERDYWlmM0p3PWVQrukjEqkBCDcSpAEKHEVWSld3ZXdXdUZWcTVwWGZTb09OMkQvNGxydz0SJDYwZWRhMTkwLWZhMjktNDM3Ni1hZDBmLTU0NjFkZDZmZTg1MRgAIAAoADCttKWKnDI4x4KlipwyQMeCpYqcMkocNW82UjJmcTBzeEdLQzQybGR2MCtKbHhMZk1JPVogIh7//2tpSFMzY1lrM1hpN0F4MHVFbmRUOTlHYi9wYz1l2i+jDBKpAQgZEqQBChxaeWdWbHVXT3A5cklDekFvQXFuMDhTemZuNXM9EiRhYTI3MGMzMi1jNGVmLTQ2ZmEtODRiNi1kMDM3OWFjNGM5NTAYACAAKAAwzK6lipwyOMeCpYqcMkDHgqWKnDJKHElZdVp1L01uMkNzZzBFVFdYYXRsR1pTVFBPOD1aICIe//9ldFVTYVZVbmtLLzRNWUl1QnRQeG43TkRMTm89ZW5tzukSqQEIFRKkAQocWVBma1VjSFJFZ21lS3AvMlhUZzZUdVZoU0NvPRIkOGVmMzdlNDItZDkzMy00NDk3LWJhNWQtN2YyOGJmYTVkZjQ0GAAgACgAMNe2pYqcMjjHgqWKnDJAx4KlipwyShwycFdkU0FHODRObXh0eklPOWlTSWszNkdUcWc9WiAiHv/7bkY1VThKSyticVZYTDhKYzFJRGFJNDFZVkh3PWV9WZlEEqgBCA0SowEKHDVtMExMMGZZVmpvMDF2eVlMS29PMk1yU3o1dz0SJGU4NjhlNGM1LTgzZjctNGFjYS04NGM5LWE3YmNiMTg0MGU5ORgAIAAoADDIt6WKnDI4x4KlipwyQMeCpYqcMkocWFNOdzVDQTBXalhiOXRyWnBIMU1Bc1B6czhBPVofIh37cDFydjI3SkdQUUxoNXM2UStNcXVkY0pta3E4PWXdho9fEqoBCDwSpQEKHE1lQnByMThqZjBSRTYxZmVLUGdNaWMxbmRaTT0SJDA1MmYzYTA0LTllNzQtNGI1My04ZWQzLTdmYzNiZjFjMjVmMxgAIAAoADClsKWKnDI4x4KlipwyQMeCpYqcMkocRjhWMVpnMk9ydlZZdmxhOVg3bG5lSThIS1dvPVohIh////ttRWpKTUIxbzZnMWpPNlQxRkY3dDZWL2xMUVE9ZQAAAAASqgEIORKlAQocSnhlc2hTVjYzM21jQ2RKaER4VDl0T09ERXM0PRIkMGVhZDQzNTItZDA3ZS00NWI4LWJjODQtOGZkYWIwNDkyOWFjGAAgACgAMOm4pYqcMjjHgqWKnDJAx4KlipwyShxURWNSN29WU2d3OCtYZVBmQ2RWR000ZDBHTFk9WiEiH///2lJTd0xaVzFxRUJnS0x4ZGtXL29TUEZmUGx4RT1lqhEK2RKoAQguEqMBChwrRVlBaE9mc3Nvak1GdyswcW8xUmY0OTk1dlU9EiRiMGFlMzNhZS1mYjg4LTRjMGEtODNlOS01ODhiNGFkMGFhNmIYACAAKAAw2rGlipwyOMaCpYqcMkDGgqWKnDJKHDZsQ3ZhNCs4WExnZldaVWlKTU9XOE5vczlXWT1aHyId/ldSR0pnNkk0MDQ0U3hHSzZIVVBEWWg0L1RLaz1lLRORMRKqAQg6EqUBChxCcnoyRElPSENWRllYMmpYZ1YrdG9EN2x4RzQ9EiQyNzc0ODU3NC1jNWJmLTQ5ZjctOTQ5Yi05ZmUyNzVlODA3YWQYACAAKAAw9bSlipwyOMeCpYqcMkDHgqWKnDJKHHlOT0JVbXBzbU8vRlhEZWpEUk9mcGFta0xuOD1aISIf///tamJ0TDg2cGlPVmxEN0xHNzJURVlFNHFXaWJFPWXvIn7WEqkBCDYSpAEKHGQ3RFNUVTAwVnkwTTJ1L1IvYTB1VVUvcXJCND0SJDBlOGMxYmFjLTBiOTktNDYyNi1iMGY3LWY2OTkzOGMxZTkxZhgAIAAoADCGtKWKnDI4x4KlipwyQMeCpYqcMkocWGdKK3M0bmNvb0FVWkRMck1wYmtDT3pJcUVBPVogIh7//mdIUkRPMmN4TlV6MHBBQ2VtaVIybzF3NUtzZz1lEDD/5BKnAQgnEqIBChxpaWF5a01YNFJOMGZLUktmNjRWcWE4OFVmMk09EiRiODk5ZGUxZC1mYjVhLTQyODktYTlkNC04MzBjOWIzOWM0MDQYACAAKAAwtq+lipwyOMSCpYqcMkDEgqWKnDJKHFc0VTl0cFRzU1B3UDViR1U5SlQrV3J5L2dWRT1aHiIcbzJYcXF4bDFKSEFFRWZTOEh3OXc2WDQvQzdJPWU+ALRBEqgBCCsSowEKHE9yZUlWL0VKWlFtOWg1L3J1WWFCQkdrY1d5ST0SJGU5YTJmMzUxLTY0YTAtNDllMS05MzA3LTBjOGQwYmFhMzFmMRgAIAAoADCKtaWKnDI4xoKlipwyQMaCpYqcMkocczBDempwOTdDcmVwQTJTc2U1YUF6a0hraWtnPVofIh32M2RPSSsrUzFHTDlXaWRrMjZXbUZ2RFRvK2VJPWXsoAwwEqoBCCESpQEKHGtzTXFHOGxRQkorV1BFdFd4QWh2d1hzb0czRT0SJDJiNjBmMzQ1LTUzZDQtNGQ0OS1hNmQwLWQ0Yjk0N2JlMTY2MBgAIAAoADDssaWKnDI4yIKlipwyQMiCpYqcMkocNnlFUkZYVnVNTzB0cmF5QlE3N0cycnhNTXRJPVohIh////55c0Nadm9leFpHRUMyMnFwQWovN3hxTTNWcEE9ZeggWyQSpwEIPRKiAQocdUNMYkg3V1lJVzdWaWR5WVRDYXMwMUltek4wPRIkYTQzNGYwMWYtNjllYi00MWFlLWIxOWYtNjc4YTNlNDI3MDFmGAAgACgAMLOwpYqcMjjHgqWKnDJAx4KlipwyShxqU2RkUUhxcThPdUk4ZGUrR1ZsMVEvR2Y5ZDQ9Wh4iHDl0RTRxb0FENWRiQmxhSXZqSVpZR05XZFU4dz1lAAAAABKoAQhAEqMBChxOM3hZZkozQit6TVBhRjBucXZoTEpzTi8xQUk9EiQ5NzdlMTMwMS03ZTRkLTQ4OWEtOTAwNC05YjM2YjdlODRlZjMYACAAKAAw/7ClipwyOMeCpYqcMkDHgqWKnDJKHFVTVkFPcEZGekVIQkhuZElvdGJLTUpXeWk0VT1aHyId2zZNSVBaWmljRTNpelNFOENIUCtRS3VRUHZ1VT1lEDD/5DABOAA=",
+   "version": 1
+}

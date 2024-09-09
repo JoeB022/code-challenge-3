@@ -1,0 +1,25 @@
+2024/09/09-12:55:08.434 ded Reusing MANIFEST /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/WebStorage/8/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/09/09-12:55:08.434 ded Recovering log #6
+2024/09/09-12:55:08.441 ded Reusing old log /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/WebStorage/8/IndexedDB/indexeddb.leveldb/000006.log 
+2024/09/09-12:55:08.836 df0 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/09-12:55:08.836 e00 Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/09-12:55:08.848 df0 Level-0 table #11: started
+2024/09/09-12:55:08.857 df0 Level-0 table #11: 434721 bytes OK
+2024/09/09-12:55:08.861 df0 Delete type=0 #6
+2024/09/09-12:55:08.861 df0 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/09-12:55:08.874 dfd Level-0 table #13: started
+2024/09/09-12:55:08.876 dfe Current memtable full; waiting...
+2024/09/09-12:55:08.878 dfd Level-0 table #13: 2407 bytes OK
+2024/09/09-12:55:08.880 dfd Delete type=0 #10
+2024/09/09-12:55:08.881 df0 Level-0 table #15: started
+2024/09/09-12:55:08.883 df0 Level-0 table #15: 684 bytes OK
+2024/09/09-12:55:08.886 df0 Delete type=0 #12
+2024/09/09-12:55:08.886 ded Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 3734 : 0
+2024/09/09-12:55:08.886 ded Compacting 2@0 + 1@1 files
+2024/09/09-12:55:08.893 ded Generated table #16@0: 1110 keys, 11082 bytes
+2024/09/09-12:55:08.893 ded Compacted 2@0 + 1@1 files => 11082 bytes
+2024/09/09-12:55:08.895 ded compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/09-12:55:08.895 ded Delete type=2 #13
+2024/09/09-12:55:08.896 ded Delete type=2 #15
+2024/09/09-12:55:08.896 ded Manual compaction at level-0 from '\x00\x07\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 3734 : 0 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/09-12:55:08.896 ded Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

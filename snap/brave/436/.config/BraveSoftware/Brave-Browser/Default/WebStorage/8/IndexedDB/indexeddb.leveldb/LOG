@@ -1,0 +1,29 @@
+2024/09/09-15:39:46.823 c1f Reusing MANIFEST /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/WebStorage/8/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/09/09-15:39:46.823 c1f Recovering log #14
+2024/09/09-15:39:46.824 c1f Reusing old log /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/WebStorage/8/IndexedDB/indexeddb.leveldb/000014.log 
+2024/09/09-15:39:46.824 c1f Delete type=2 #11
+2024/09/09-15:39:46.939 c1f Level-0 table #19: started
+2024/09/09-15:39:46.943 c1f Level-0 table #19: 26574 bytes OK
+2024/09/09-15:39:46.946 c1f Delete type=0 #14
+2024/09/09-15:39:46.947 c1f Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x90\x8d\c\x1dyB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 4068 : 1
+2024/09/09-15:39:46.947 c1f Compacting 1@0 + 1@1 files
+2024/09/09-15:39:46.951 c1f Generated table #20@0: 1222 keys, 23604 bytes
+2024/09/09-15:39:46.951 c1f Compacted 1@0 + 1@1 files => 23604 bytes
+2024/09/09-15:39:46.954 c1f compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/09-15:39:46.954 c1f Manual compaction at level-0 from '\x00\x0a\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x90\x8d\c\x1dyB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 4068 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/09-15:39:46.955 c1c Level-0 table #22: started
+2024/09/09-15:39:46.957 c1c Level-0 table #22: 1913 bytes OK
+2024/09/09-15:39:46.958 c1f Current memtable full; waiting...
+2024/09/09-15:39:46.961 c1c Delete type=0 #18
+2024/09/09-15:39:46.961 c1c Level-0 table #24: started
+2024/09/09-15:39:46.963 c1c Level-0 table #24: 888 bytes OK
+2024/09/09-15:39:46.966 c1c Delete type=0 #21
+2024/09/09-15:39:46.966 c1c Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xd0\x8d\c\x1dyB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 4316 : 0
+2024/09/09-15:39:46.966 c1c Compacting 2@0 + 1@1 files
+2024/09/09-15:39:46.989 c1c Generated table #25@0: 1192 keys, 12087 bytes
+2024/09/09-15:39:46.990 c1c Compacted 2@0 + 1@1 files => 12087 bytes
+2024/09/09-15:39:46.993 c1c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/09-15:39:46.995 c1c Delete type=2 #22
+2024/09/09-15:39:46.995 c1c Delete type=2 #24
+2024/09/09-15:39:46.996 c1c Manual compaction at level-0 from '\x00\x09\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xd0\x8d\c\x1dyB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 4316 : 0 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/09-15:39:46.997 c1d Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

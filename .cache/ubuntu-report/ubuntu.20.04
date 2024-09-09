@@ -1,0 +1,78 @@
+{
+  "Version": "20.04",
+  "OEM": {
+    "Vendor": "HP",
+    "Product": "HP EliteBook x360 1030 G4",
+    "Family": "103C_5336AN HP EliteBook x360"
+  },
+  "BIOS": {
+    "Vendor": "HP",
+    "Version": "R94 Ver. 01.11.00"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "8",
+    "Threads": "2",
+    "Cores": "4",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "142",
+    "Stepping": "12",
+    "Name": "Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "3ea0"
+    }
+  ],
+  "RAM": 16.2,
+  "Disks": [
+    512.1
+  ],
+  "Partitions": [
+    489.6,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "293mmx165mm",
+      "Resolution": "1920x1080",
+      "Frequency": "60.03"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_US",
+  "Timezone": "Africa/Nairobi",
+  "Install": {
+    "Media": "Ubuntu 20.04.6 LTS \"Focal Fossa\" - Release amd64 (20230316)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_lvm",
+    "DownloadUpdates": false,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "4": "console_setup",
+      "6": "wireless",
+      "9": "prepare",
+      "20": "partman",
+      "27": "start_install",
+      "38": "timezone",
+      "47": "usersetup",
+      "127": "user_done",
+      "367": "done"
+    }
+  }
+}

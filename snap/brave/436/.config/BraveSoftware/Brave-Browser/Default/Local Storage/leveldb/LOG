@@ -1,0 +1,19 @@
+2024/09/09-19:25:44.395 4 Reusing MANIFEST /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/09/09-19:25:44.497 4 Recovering log #163
+2024/09/09-19:25:44.498 4 Level-0 table #166: started
+2024/09/09-19:25:44.546 4 Level-0 table #166: 21180 bytes OK
+2024/09/09-19:25:44.546 4 Recovering log #165
+2024/09/09-19:25:44.548 4 Reusing old log /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000165.log 
+2024/09/09-19:25:44.552 4 Delete type=0 #163
+2024/09/09-19:26:11.285 4 Level-0 table #168: started
+2024/09/09-19:26:11.292 4 Level-0 table #168: 39180 bytes OK
+2024/09/09-19:26:11.296 4 Delete type=0 #165
+2024/09/09-19:26:11.296 4 Compacting 4@0 + 1@1 files
+2024/09/09-19:26:11.316 4 Generated table #169@0: 560 keys, 405648 bytes
+2024/09/09-19:26:11.316 4 Compacted 4@0 + 1@1 files => 405648 bytes
+2024/09/09-19:26:11.319 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/09-19:26:11.320 4 Delete type=2 #162
+2024/09/09-19:26:11.320 4 Delete type=2 #160
+2024/09/09-19:26:11.320 4 Delete type=2 #164
+2024/09/09-19:26:11.320 4 Delete type=2 #168
+2024/09/09-19:26:11.320 4 Delete type=2 #166

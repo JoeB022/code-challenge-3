@@ -1,0 +1,6 @@
+2024/09/07-13:46:48.841 c25 Creating DB /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.grammarly.com_0.indexeddb.leveldb since it was missing.
+2024/09/07-13:46:48.850 c25 Reusing MANIFEST /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.grammarly.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/07-13:46:50.876 c0c Level-0 table #5: started
+2024/09/07-13:46:50.879 c0c Level-0 table #5: 433 bytes OK
+2024/09/07-13:46:50.883 c0c Delete type=0 #3
+2024/09/07-13:46:50.883 c0c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

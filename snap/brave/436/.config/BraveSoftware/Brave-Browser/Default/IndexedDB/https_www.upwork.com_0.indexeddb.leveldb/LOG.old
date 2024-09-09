@@ -1,0 +1,7 @@
+2024/09/09-16:09:22.809 c1d Reusing MANIFEST /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.upwork.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/09-16:09:22.810 c1d Recovering log #6
+2024/09/09-16:09:22.811 c1d Reusing old log /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.upwork.com_0.indexeddb.leveldb/000006.log 
+2024/09/09-16:09:45.372 c1c Level-0 table #11: started
+2024/09/09-16:09:45.376 c1c Level-0 table #11: 522 bytes OK
+2024/09/09-16:09:45.380 c1c Delete type=0 #6
+2024/09/09-16:09:45.381 c1c Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

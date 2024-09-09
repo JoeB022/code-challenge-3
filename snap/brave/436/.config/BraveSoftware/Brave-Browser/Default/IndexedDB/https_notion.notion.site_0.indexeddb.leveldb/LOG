@@ -1,0 +1,6 @@
+2024/09/08-21:15:30.151 974 Creating DB /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_notion.notion.site_0.indexeddb.leveldb since it was missing.
+2024/09/08-21:15:30.158 974 Reusing MANIFEST /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_notion.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/08-21:15:30.399 975 Level-0 table #5: started
+2024/09/08-21:15:30.401 975 Level-0 table #5: 560 bytes OK
+2024/09/08-21:15:30.404 975 Delete type=0 #3
+2024/09/08-21:15:30.404 975 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

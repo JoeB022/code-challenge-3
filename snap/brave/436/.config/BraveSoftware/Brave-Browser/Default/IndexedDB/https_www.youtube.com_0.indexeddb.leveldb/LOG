@@ -1,0 +1,6 @@
+2024/09/09-19:26:05.123 9fd Reusing MANIFEST /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/09-19:26:05.123 9fd Recovering log #30
+2024/09/09-19:26:05.132 9fd Reusing old log /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000030.log 
+2024/09/09-20:21:29.869 9fe Level-0 table #35: started
+2024/09/09-20:21:29.889 9fe Level-0 table #35: 1308214 bytes OK
+2024/09/09-20:21:29.894 9fe Delete type=0 #30

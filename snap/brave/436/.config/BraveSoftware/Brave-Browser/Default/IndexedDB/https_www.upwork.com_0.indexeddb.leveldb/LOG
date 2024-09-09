@@ -1,0 +1,13 @@
+2024/09/09-19:25:57.324 9fd Reusing MANIFEST /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.upwork.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/09-19:25:57.333 9fd Recovering log #10
+2024/09/09-19:25:57.333 9fd Reusing old log /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.upwork.com_0.indexeddb.leveldb/000010.log 
+2024/09/09-19:25:58.462 a0b Level-0 table #14: started
+2024/09/09-19:25:58.464 a0b Level-0 table #14: 541 bytes OK
+2024/09/09-19:25:58.467 a0b Delete type=0 #10
+2024/09/09-19:25:58.468 9fd Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 47 : 1
+2024/09/09-19:25:58.468 9fd Compacting 1@0 + 1@1 files
+2024/09/09-19:25:58.472 9fd Generated table #15@0: 4 keys, 259 bytes
+2024/09/09-19:25:58.472 9fd Compacted 1@0 + 1@1 files => 259 bytes
+2024/09/09-19:25:58.476 9fd compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/09-19:25:58.477 9fd Delete type=2 #14
+2024/09/09-19:25:58.477 9fd Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 47 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

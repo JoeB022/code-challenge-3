@@ -1,0 +1,20 @@
+2024/09/09-19:25:46.775 9fe Reusing MANIFEST /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2024/09/09-19:25:46.775 9fe Recovering log #38
+2024/09/09-19:25:46.781 9fe Reusing old log /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000038.log 
+2024/09/09-19:32:48.686 9fe Level-0 table #43: started
+2024/09/09-19:32:48.703 9fe Level-0 table #43: 257467 bytes OK
+2024/09/09-19:32:48.707 9fe Delete type=0 #38
+2024/09/09-19:37:48.947 9fe Level-0 table #45: started
+2024/09/09-19:37:49.066 9fe Level-0 table #45: 250410 bytes OK
+2024/09/09-19:37:49.073 9fe Delete type=0 #42
+2024/09/09-19:42:49.227 a0b Level-0 table #47: started
+2024/09/09-19:42:49.336 a0b Level-0 table #47: 251006 bytes OK
+2024/09/09-19:42:49.341 a0b Delete type=0 #44
+2024/09/09-20:09:00.244 9fe Compacting 3@0 + 1@1 files
+2024/09/09-20:09:00.265 9fe Generated table #48@0: 40 keys, 54540 bytes
+2024/09/09-20:09:00.265 9fe Compacted 3@0 + 1@1 files => 54540 bytes
+2024/09/09-20:09:00.268 9fe compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/09-20:09:00.268 9fe Delete type=2 #43
+2024/09/09-20:09:00.268 9fe Delete type=2 #45
+2024/09/09-20:09:00.268 9fe Delete type=2 #40
+2024/09/09-20:09:00.268 9fe Delete type=2 #47

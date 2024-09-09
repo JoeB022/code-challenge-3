@@ -1,0 +1,1 @@
+This project is for analyzing server logs. It includes scripts to process and review log files, as well as backup procedures to ensure data integrity. The logs directory contains the server logs, and the backup directory holds backups of important files.

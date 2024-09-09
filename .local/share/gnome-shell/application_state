@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-language-selector.desktop" score="0" last-seen="1725528051"/>
+    <application id="gnome-control-center.desktop" score="1240" last-seen="1725874910"/>
+    <application id="org.gnome.Shell.PortalHelper.desktop" score="0" last-seen="1725525484"/>
+    <application id="org.gnome.gedit.desktop" score="38" last-seen="1725881880"/>
+    <application id="apport-gtk.desktop" score="0" last-seen="1725466035"/>
+    <application id="org.gnome.Nautilus.desktop" score="357" last-seen="1725901881"/>
+    <application id="code_code.desktop" score="358" last-seen="1725902377"/>
+    <application id="snap-store_ubuntu-software.desktop" score="758" last-seen="1725522804"/>
+    <application id="gnome-initial-setup.desktop" score="58" last-seen="1725442255"/>
+    <application id="update-manager.desktop" score="0" last-seen="1725875504"/>
+    <application id="firefox.desktop" score="245" last-seen="1725516648"/>
+    <application id="org.gnome.Terminal.desktop" score="6337" last-seen="1725899895"/>
+    <application id="org.gnome.Calculator.desktop" score="34" last-seen="1725655325"/>
+    <application id="xdg-desktop-portal-gtk.desktop" score="0" last-seen="1725518372"/>
+    <application id="brave_brave.desktop" score="17259" last-seen="1725902351"/>
+    <application id="org.gnome.Sudoku.desktop" score="0" last-seen="1725620095"/>
+  </context>
+</application-state>

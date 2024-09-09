@@ -1,0 +1,33 @@
+2024-09-09 19:25:57.746 [info] [main] Log level: Info
+2024-09-09 19:25:57.746 [info] [main] Validating found git in: "git"
+2024-09-09 19:25:57.746 [info] [main] Using git "2.25.1" from "git"
+2024-09-09 19:25:57.746 [info] [Model][doInitialScan] Initial repository scan started
+2024-09-09 19:25:57.746 [info] > git rev-parse --show-toplevel [9ms]
+2024-09-09 19:25:57.746 [info] > git rev-parse --git-dir --git-common-dir [14ms]
+2024-09-09 19:25:57.746 [info] [Model][openRepository] Opened repository: /home/joe/SimpleWebsite
+2024-09-09 19:25:57.746 [info] > git rev-parse --show-toplevel [47ms]
+2024-09-09 19:25:57.746 [info] > git config --get commit.template [53ms]
+2024-09-09 19:25:57.768 [info] > git rev-parse --show-toplevel [26ms]
+2024-09-09 19:25:57.782 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2024-09-09 19:25:57.797 [info] > git rev-parse --show-toplevel [13ms]
+2024-09-09 19:25:57.803 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-09-09 19:25:57.818 [info] > git status -z -uall [29ms]
+2024-09-09 19:25:57.840 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+2024-09-09 19:25:57.849 [info] > git config --get commit.template [9ms]
+2024-09-09 19:25:57.850 [info] > git config --local branch.master.vscode-merge-base [4ms]
+2024-09-09 19:25:57.850 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-09 19:25:57.867 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2024-09-09 19:25:57.871 [info] > git reflog master --grep-reflog=branch: Created from *. [16ms]
+2024-09-09 19:25:57.881 [info] > git status -z -uall [10ms]
+2024-09-09 19:25:57.881 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [6ms]
+2024-09-09 19:25:57.881 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-09 19:25:57.928 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [39ms]
+2024-09-09 19:25:57.936 [info] > git config --local branch.master.vscode-merge-base [3ms]
+2024-09-09 19:25:57.936 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-09 19:25:57.956 [info] > git reflog master --grep-reflog=branch: Created from *. [16ms]
+2024-09-09 19:25:57.964 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [3ms]
+2024-09-09 19:25:57.964 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-09 19:25:58.223 [info] > git check-ignore -v -z --stdin [16ms]
+2024-09-09 19:25:58.269 [info] > git show --textconv :index.html [13ms]
+2024-09-09 19:25:58.273 [info] > git ls-files --stage -- /home/joe/SimpleWebsite/index.html [5ms]
+2024-09-09 19:25:58.286 [info] > git cat-file -s ffac8543d70c01b18f3ecfbbfaa60ebb337bf0a5 [5ms]

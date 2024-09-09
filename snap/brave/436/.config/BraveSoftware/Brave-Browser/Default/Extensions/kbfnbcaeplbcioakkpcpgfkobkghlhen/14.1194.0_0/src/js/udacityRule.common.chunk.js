@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[1447],{12079:(e,n,a)=>{a.r(n),a.d(n,{Udacity:()=>t});var t,c=a(56934),u=a(52073),d=a(88900),i=a(92865);!function(e){const n=c.O$.generic((()=>({replaceEvent:"paste",deletionEvent:"keydown"})));e.page=(0,d.$W)({name:"udacity",domain:u.ft},[n,...i.k.newLayoutRules])}(t||(t={}))}}]);

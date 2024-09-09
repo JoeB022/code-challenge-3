@@ -1,0 +1,9 @@
+2024/09/09-14:09:54.687 4 Reusing MANIFEST /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2024/09/09-14:09:54.688 4 Recovering log #27
+2024/09/09-14:09:54.688 4 Reusing old log /home/joe/snap/brave/436/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000027.log 
+2024/09/09-15:11:56.909 5 Level-0 table #32: started
+2024/09/09-15:11:57.025 5 Level-0 table #32: 21092 bytes OK
+2024/09/09-15:11:57.029 5 Delete type=0 #27
+2024/09/09-15:40:55.745 4 Level-0 table #34: started
+2024/09/09-15:40:55.758 4 Level-0 table #34: 25280 bytes OK
+2024/09/09-15:40:55.764 4 Delete type=0 #31
