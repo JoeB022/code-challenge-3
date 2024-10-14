@@ -1,70 +1,60 @@
-<html>
-  <head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
     <meta charset="UTF-8" />
     <title>Code Challenge</title>
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.11.8/semantic.min.css"
-    />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.11.8/semantic.min.css" />
     <link rel="stylesheet" href="assets/index.css" />
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-  </head>
-  <body>
+</head>
+<body>
     <!-- navbar -->
     <div class="heading">
-      <div class="item">
-        <h2 class="ui header">
-          <i class="orange ticket icon"></i>
-          <div class="content">FLATDANGO</div>
-          <div class="sub header" id="subtitle">BUY MOVIE TICKETS</div>
-        </h2>
-      </div>
+        <div class="item">
+            <h2 class="ui header">
+                <i class="orange ticket icon"></i>
+                <div class="content">FLATDANGO</div>
+                <div class="sub header" id="subtitle">BUY MOVIE TICKETS</div>
+            </h2>
+        </div>
     </div>
 
     <div class="ui centered grid">
-      <div class="four wide column">
-        <div class="list-container">
-          <!-- side menu -->
-          <ul class="ui divided list" id="films">
-            <li class="film item">The Giant Gila Monster</li>
-            <!-- Additional movie titles will be populated here -->
-          </ul>
+        <div class="four wide column">
+            <div class="list-container sideMenu">
+                <!-- side menu -->
+                <ul class="ui divided list" id="films">
+                    <!-- UPDATED TEXT CONTENT TO HANDLE SERVER OFFLINE STATUS -->
+                    <li class="film item">PLEASE CHECK THAT JSON SERVER IS RUNNING ON YOU LOCAL MACHINE AND REFRESH THE PAGE</li> 
+
+                </ul>
+            </div>
         </div>
-      </div>
+        
+        <!-- On ticket booth poster -->
+        <div id="movie-details" class="four wide column">
+            <img id="movie-poster" src="" alt="Movie Poster">
+        </div>
 
-      <!-- poster -->
-      <div class="four wide column">
-        <img
-          id="poster"
-          src="assets/placeholderImage.png"
-          alt="The Giant Gila Monster"
-        />
-      </div>
-
-      <!-- showing info -->
-      <div class="four wide column">
-        <div class="ui cards" id="showing">
-          <div class="card">
-            <div id="title" class="title">The Giant Gila Monster</div>
-            <div id="runtime" class="meta">108 minutes</div>
-            <div class="content">
-              <div class="description">
-                <div id="film-info">
-                  A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.
+        <!-- showing info -->
+        <div class="four wide column">
+            <div class="ui cards" id="showing">
+                <div class="card">
+                    <div id="title" class="title"><h1 id="movie-title">Movie Titles go here</h1></div>
+                    <div id="runtime" class="meta"><p><strong>Runtime:</strong> <span id="movie-runtime"></span> minutes</p></div>
+                    <div class="content">
+                        <div class="description">
+                            <div id="film-info">[INSERT MOVIE DESCRIPTION HERE]</div>
+                            <span id="showtime" class="ui label"><p><strong>Showtime:</strong> <span id="movie-showtime"></span></p></span>
+                            <span id="ticket-num"><p><strong>Available Tickets:</strong> <span id="movie-tickets"></span></p></span>
+                            <br>
+                            <button id="buy-ticket" class="ui orange button">Buy Ticket</button>
+                        </div>
+                    </div>
                 </div>
-                <span id="showtime" class="ui label">04:00PM</span>
-                <span id="ticket-num">3</span> remaining tickets
-              </div>
             </div>
-            <div class="extra content">
-              <button id="buy-ticket" class="ui orange button">
-                Buy Ticket
-              </button>
-            </div>
-          </div>
         </div>
-      </div>
     </div>
     <script src="src/index.js"></script>
-  </body>
+</body>
 </html>
